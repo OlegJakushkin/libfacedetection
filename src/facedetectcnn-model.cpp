@@ -36,7 +36,6 @@ or tort (including negligence or otherwise) arising in any way out of
 the use of this software, even if advised of the possibility of such damage.
 */
 
-#define FACEDETECTION_EXPORT
 #include "facedetectcnn.h"
 #include <stdio.h>
 #include <string.h>
